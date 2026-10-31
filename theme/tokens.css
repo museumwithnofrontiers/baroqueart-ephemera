@@ -26,6 +26,7 @@
   --minisite-menu-link: #B87C74;
   --minisite-strip: #BD857E;
   --minisite-footer: #760d00;
+  --minisite-footer-height: 18px;
   --minisite-footer-text: #B87C74;
   --minisite-footer-font: Normal 9px verdana, arial , helvetica;
   --minisite-footer-link: #B87C74;
@@ -72,12 +73,12 @@
   --minisite-partners-width: 97.3%;
   --minisite-partners-padding: 0px 10px 0px 10px;
   --minisite-partners-line-color: #B87C74;
-  --minisite-partners-line-height: 18px;
   --minisite-partners-curators-width: 540px;
   --minisite-partners-curators-padding: 10px 0px 10px 0px;
   --minisite-partners-curators-margin-right: 10px;
   --minisite-partners-curators-rule: 1px solid #6e1d13;
   --minisite-partners-tab-width: 150px;
+  --minisite-partners-tab-padding-right: 0px;
   --minisite-partners-tab-font: Normal 9px/12px verdana, arial , helvetica;
   --minisite-partners-tab-color: #b87c74;
   --minisite-partners-tab-spacing: .2px;
@@ -105,6 +106,7 @@
   --minisite-banner-height: 371px;
   --minisite-banner-position: top;
   --minisite-intro-paper: #DFE5EB;
+  --minisite-intro-padding-top: 161px;
   --minisite-intro-title-left: 150px;
   --minisite-intro-title-top: 20px;
   --minisite-intro-title-width: 600px;
